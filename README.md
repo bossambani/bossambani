@@ -1,6 +1,6 @@
+Hey there! I'm Boss Ambaka  👋
 **💻 Software Developer | 📊 Data Enthusiast | 🌐 Web Creator**
 
-Hey there! I'm Boss Ambaka  👋
 I'm passionate about turning ideas into reality with code. From crafting interactive web applications to solving complex problems with algorithms, I love the entire process of building software. I'm currently focusing on:
 
 - 🖥️ **Backend Development**: Flask, Node.js, MySQL, SQLite
