@@ -1,4 +1,4 @@
-# Hey there! I'm Boss Ambaka  👋
+# Hi there! I'm Boss Ambaka  👋
 
 # 💫 About Me:
 🔭 I’m currently working on my Mathematics and Computer Science course<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Software Engineering and Machine Learning<br>💬 Ask me about anything<br>⚡ Fun fact: I use dark mode not because it’s cool, but because my code has enough bugs to keep me up at night 🐛🌙.
