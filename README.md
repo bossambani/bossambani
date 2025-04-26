@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hey there! I'm Boss Ambaka 🧑🏽‍💻<br>🎓 I'm a student currently pursuing a degree in Mathematics and Computer Science.<br>💡 I’m passionate about Data, Web, and Software Development.<br>🎯 My goal is to become a Data Scientist/Analyst and use data to solve real-world problems.<br>🌱 I’m always learning and exploring new technologies.<br><br>Let’s connect and build something awesome! 🚀<br> see my portfolio[Potfolio](https://bossambani.github.io/)
+👋Hey there! I'm Boss Ambaka 🧑🏽‍💻<br>🎓 I'm a student currently pursuing a degree in Mathematics and Computer Science.<br>💡 I’m passionate about Data, Web, and Software Development.<br>🎯 My goal is to become a Data Scientist/Analyst and use data to solve real-world problems.<br>🌱 I’m always learning and exploring new technologies.<br> see my portfolio. [Portfolio](https://bossambani.github.io/)<br><br>Let’s connect and build something awesome! 🚀
 
 
 ## 🌐 Socials:
